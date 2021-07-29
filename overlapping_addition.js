@@ -2,7 +2,8 @@ const coolPlaces = [
     "Chicago",
     "Bay Area",
     "Pacific Northwest",
-    "NYC"
+    "NYC",
+    "Toronto"
 ]
 
 coolPlaces.forEach(place => {
